@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_bullhead.mk
+    $(LOCAL_DIR)/lineage_bullhead.mk
 
 COMMON_LUNCH_CHOICES := \
-    bliss_bullhead-userdebug
+    lineage_bullhead-userdebug
