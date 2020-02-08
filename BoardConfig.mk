@@ -196,3 +196,7 @@ endif
 # Legacy blob support
 TARGET_PROCESS_SDK_VERSION_OVERRIDE += \
     /vendor/bin/mm-qcamera-daemon=27
+  
+# QCOM
+BOARD_USES_QCOM_HARDWARE := true
+ 
